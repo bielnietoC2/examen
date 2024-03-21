@@ -1,1 +1,4 @@
-NomParticipant 1
+Nom: manel
+Edat: 24
+Estudis: DAW
+Professió: Programador WEB
