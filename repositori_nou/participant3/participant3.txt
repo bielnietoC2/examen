@@ -1,0 +1,4 @@
+Nom: Ricard
+Edat: 43
+Estudis: ESO
+Professio: Taxista
