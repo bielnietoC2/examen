@@ -2,3 +2,5 @@ Nom: Ricard
 Edat: 43
 Estudis: ESO
 Professio: Taxista
+Projectes treballats: vefvrfv
+Eines: erfverfv
